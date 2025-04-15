@@ -1,0 +1,6 @@
+claim_id,location,date,claim_text
+1,Farm_A,2023-07-07,"We experienced extreme rainfall for three days straight, damaging the crops."
+2,Farm_B,2023-07-04,"The weather has been hot but manageable — no crop loss reported."
+3,Farm_C,2023-07-06,"We had five days of temperatures above 35°C, and many plants died."
+4,Farm_A,2023-07-01,"Just a brief shower — nothing serious."
+5,Farm_B,2023-07-05,"The rainfall exceeded our irrigation capacity, and flooded half the field."
